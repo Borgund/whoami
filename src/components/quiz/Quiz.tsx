@@ -69,7 +69,7 @@ const Quiz = ({}: QuizProps) => {
         },
 
         {
-          text: "Bah! I might as well to bed",
+          text: "Bah! I might as well go to bed",
           id: 3,
         },
       ],
